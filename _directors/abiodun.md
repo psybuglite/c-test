@@ -8,6 +8,7 @@ social-media:    none
 permalink:       /about/abiodun/
 rank:            3
 ---
+
 Mr.Abiodun Obimuyiwa, Deputy Director and Head of Public Relations Unit of theCouncil, is a 1986 Mass Communication graduate of the Polytechnic Ibadan. He also has aMasters degree in Communication Arts (MCA) from the University of Ibadan.
 
 Obimuyiwa, who had over 20 years’ experience in print journalism before his employment into the Council in 2006, was a former senior reporter and state correspondent ofChampion Newspapers and that of the defunct Sketch Press Limited.
