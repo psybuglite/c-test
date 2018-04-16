@@ -1,0 +1,5 @@
+---
+permalink: "/faqs/"
+layout: faqs
+---
+

@@ -1,0 +1,5 @@
+---
+permalink: "/regulators/"
+layout: regulators
+---
+

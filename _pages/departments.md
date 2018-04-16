@@ -1,0 +1,5 @@
+---
+permalink: "/departments/"
+layout: departments
+---
+
