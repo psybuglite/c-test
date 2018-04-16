@@ -1,4 +1,5 @@
 ---
+title:           audit
 layout:          units
 department:      Audit Unit
 permalink:       /departments/audit/

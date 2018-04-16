@@ -1,4 +1,5 @@
 ---
+title:           Finance and accounts
 layout:          units
 department:      Finance and Accounts Department
 permalink:       /departments/finance/

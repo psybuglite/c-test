@@ -1,8 +1,9 @@
 ---
+title:           Ola Raheem
 layout:          director
 name:            Ola Raheem
 designation:     Director, Planning, Research and Strategy Department
-image:           /uploads/directors/ola.jpg
+image:           /uploads/ola.jpg
 social-media:    none
 permalink:       /about/ola/
 rank:           2

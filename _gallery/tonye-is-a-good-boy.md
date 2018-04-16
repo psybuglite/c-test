@@ -1,5 +1,5 @@
 ---
-title: DG Meets KB
+title: nafdac and cpc meeting
 layout: default
 file_image: /uploads/nafdac1.jpg
 image_caption_text: |-

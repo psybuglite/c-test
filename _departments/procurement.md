@@ -1,4 +1,5 @@
 ---
+title:           Procurement
 layout:          units
 department:      Procurement Unit
 permalink:       /departments/procurement/

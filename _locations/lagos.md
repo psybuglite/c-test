@@ -1,4 +1,5 @@
 ---
+title:            lagos office
 name:             LAGOS OFFICE
 acronym:          LO
 address:          8, Ilupeju By Pass, Opposite Sweet Sensation, Ilupeju, Lagos

@@ -1,4 +1,5 @@
 ---
+title:           Quality assurance
 layout:          units
 department:      Quality Assurance and Development Department (QAD)
 permalink:       /departments/quality-assurance/

@@ -1,4 +1,5 @@
 ---
+title:            north-east zonal office
 name:             NORTH-EAST ZONAL OFFICE
 acronym:          NEZO
 address:          Off Adamu jumba Road, Adjacent Local Government Pension Board, GRA, Bauchi, Bauchi State.

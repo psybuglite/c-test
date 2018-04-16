@@ -1,4 +1,5 @@
 ---
+title:           consumer education
 layout:          units
 department:      Consumer Education Department
 permalink:       /departments/consumer-education/

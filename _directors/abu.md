@@ -1,8 +1,9 @@
 ---
+title:           Edache Abu
 layout:          director
 name:            Edache Abu
 designation:     Head Internal Audit Unit
-image:           /uploads/directors/abu.jpg
+image:           /uploads/abu.jpg
 social-media:    none
 permalink:       /about/abu/
 rank:            4

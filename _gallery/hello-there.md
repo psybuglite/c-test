@@ -1,5 +1,5 @@
 ---
-title: DG Meets KB
+title: Nafdac meeting
 layout: default
 file_image: /uploads/nafdac2.jpg
 image_caption_text: |-

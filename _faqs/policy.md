@@ -1,4 +1,5 @@
 ---
+title: what is the cpc policy?
 question: |-
   What is the policy of the Consumer Protection Council and how they protect every consumer?
 answer: |-

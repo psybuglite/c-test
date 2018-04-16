@@ -1,4 +1,5 @@
 ---
+title:           Public relations
 layout:          units
 department:      Public Relations Department
 permalink:       /departments/public-relations/

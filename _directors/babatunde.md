@@ -1,11 +1,12 @@
 ---
+title:           Babatunde Irukera
 layout:          director
 name:            Babatunde Irukera
 designation:     Director General
-image:           /uploads/directors/babatunde.jpg
+image:           /uploads/babatunde.jpg
 social-media:    none
 permalink:       /about/babatunde/
-rank:           1
+rank:            1
 ---
 Babatunde Irukera is the Director General/Chief Executive Officer, the Consumer Protection Council (CPC). He is responsible for the daily management of the Council and leadership in fulfilling its mandate to protect consumers and secure remedies when consumer rights are violated.  His record of advocacy and cases in favour of consumers is outstanding and provides the clarity that both the Council and industry need in ensuring due regard for customer service and protection of consumer rights.
 

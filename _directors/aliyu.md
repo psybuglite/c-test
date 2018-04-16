@@ -1,8 +1,9 @@
 ---
+title:           Aliyu Mohammed
 layout:          director
 name:            Aliyu Mohammed
 designation:     Director, Administration and Human Resources Department
-image:           
+image:           /uploads/aliyu.jpg
 social-media:    none
 permalink:       /about/aliyu/
 rank:           2

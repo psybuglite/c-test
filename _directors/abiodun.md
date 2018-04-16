@@ -1,8 +1,9 @@
 ---
+title:           Abiodun Obimuyiwa
 layout:          director
 name:            Abiodun Obimuyiwa
 designation:     Deputy Director, Public Relation Unit
-image:           /uploads/directors/abiodun.jpg
+image:           /uploads/abiodun.jpg
 social-media:    none
 permalink:       /about/abiodun/
 rank:            3

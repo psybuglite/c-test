@@ -1,8 +1,9 @@
 ---
+title:           Kelechi Oko
 layout:          director
 name:            Mr. Kelechi Oko
 designation:     Deputy Director, Quality Assurance and Development
-image:           /uploads/directors/oko.jpg
+image:           /uploads/oko.jpg
 social-media:    none
 permalink:       /about/oko/
 rank:           3

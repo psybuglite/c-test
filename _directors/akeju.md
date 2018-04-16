@@ -1,8 +1,9 @@
 ---
+title:           Mopelola Akeju
 layout:          director
 name:            Mrs. Mopelola Akeju
 designation:     Director, Consumer Education Department
-image:           /uploads/directors/akeju.jpg
+image:           /uploads/akeju.jpg
 social-media:    none
 permalink:       /about/akeju/
 rank:            2

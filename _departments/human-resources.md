@@ -1,4 +1,5 @@
 ---
+title:           Administration and Human Resources
 layout:          units
 department:      Administration and Human Resources Department
 permalink:       /departments/human-resources/

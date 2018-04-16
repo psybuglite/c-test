@@ -1,4 +1,5 @@
 ---
+title:           Legal Services
 layout:          units
 department:      Legal Services Department
 permalink:       /departments/legal/

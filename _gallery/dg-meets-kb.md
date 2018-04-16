@@ -1,5 +1,5 @@
 ---
-title: DG Meets KB
+title: be more responsive
 layout: default
 file_image: /uploads/be-more-responsive.jpg
 image_caption_text: |-

@@ -1,5 +1,5 @@
 ---
-title: DG Meets KB
+title: strategic engagement
 layout: default
 file_image: /uploads/strategic1.jpg
 image_caption_text: |-

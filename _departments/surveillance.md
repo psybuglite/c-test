@@ -1,4 +1,5 @@
 ---
+title:           Surveillance and Enforcement
 layout:          units
 department:      Surveillance and Enforcement Department
 permalink:       /departments/surveillance/
