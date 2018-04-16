@@ -1,8 +1,8 @@
 ---
-title:           Surveillance and Enforcement
-layout:          units
-department:      Surveillance and Enforcement Department
-permalink:       /departments/surveillance/
+title: Surveillance and Enforcement
+permalink: "/departments/surveillance/"
+layout: units
+department: Surveillance and Enforcement Department
 ---
 
 The Surveillance and Enforcement Department is a key operational unit of the Council. The department hosts and manages the complaint resolution function of the Council and the surveillance and enforcement activities of the Council. In resolving complaints, the department participates in simple resolutions, negotiations, mediation, conciliation and investigations. As part of the outcome of complaint resolution, beyond modifying behaviour, the department on behalf of the Council secures remedies for consumers including compensation, repair, replacements or restitution where applicable.

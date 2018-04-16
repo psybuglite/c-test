@@ -1,12 +1,12 @@
 ---
-title:           Edache Abu
-layout:          director
-name:            Edache Abu
-designation:     Head Internal Audit Unit
-image:           /uploads/abu.jpg
-social-media:    none
-permalink:       /about/abu/
-rank:            4
+title: Edache Abu
+permalink: "/about/abu/"
+layout: director
+name: Edache Abu
+designation: Head Internal Audit Unit
+image: "/uploads/abu.jpg"
+social-media: none
+rank: 4
 ---
 
 Mr. Abu, Joseph Edache who hails from Benue state of Nigeria, was born in Otukpo town, in Otukpo local Government area of the state.

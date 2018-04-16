@@ -1,12 +1,12 @@
 ---
-title:           Kelechi Oko
-layout:          director
-name:            Mr. Kelechi Oko
-designation:     Deputy Director, Quality Assurance and Development
-image:           /uploads/oko.jpg
-social-media:    none
-permalink:       /about/oko/
-rank:           3
+title: Kelechi Oko
+permalink: "/about/oko/"
+layout: director
+name: Mr. Kelechi Oko
+designation: Deputy Director, Quality Assurance and Development
+image: "/uploads/oko.jpg"
+social-media: none
+rank: 3
 ---
 
 Mr. Kelechi Kenneth Oko is Deputy Director Quality Assurance and Development of the Consumer Protection Council.

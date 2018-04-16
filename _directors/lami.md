@@ -1,12 +1,12 @@
 ---
-title:           Lami B. Daikwo
-layout:          director
-name:            Lami B. Daikwo
-designation:     Head of Procurement Unit
-image:           /uploads/lami.jpg
-social-media:    none
-permalink:       /about/lami/
-rank:           4
+title: Lami B. Daikwo
+permalink: "/about/lami/"
+layout: director
+name: Lami B. Daikwo
+designation: Head of Procurement Unit
+image: "/uploads/lami.jpg"
+social-media: none
+rank: 4
 ---
 
 Lami Daikwo is the head of the Procurement Unit of the Council. 
