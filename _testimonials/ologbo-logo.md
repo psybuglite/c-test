@@ -1,6 +1,6 @@
 ---
 title: Ologbo Logo
-date: 2017-01-24 00:00:00 +01:00
+date: 2017-01-23 12:00:00 -11:00
 name: Kola Arowosegbe
 location: Tabitha Medical Centre Representative
 designation: ''
