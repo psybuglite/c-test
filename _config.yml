@@ -1,11 +1,14 @@
 ---
 title: Consumer Protection Council
-timezone: Pacific/Pago_Pago
+timezone: Africa/Lagos
 collections:
   gallery:
     title: CPC Media Gallery
     output: true
     permalink: "/:collection/:name"
+  consumer_blog:
+    title: Consumer Blog
+    output: true
   locations:
     title: Contact
     output: true
@@ -20,6 +23,12 @@ collections:
     output: true
   faqs:
     title: FAQs
+    output: true
+  how-to:
+    title: How To
+    output: true
+  news:
+    title: News
     output: true
   posts:
     title: Posts
@@ -79,6 +88,24 @@ defaults:
   values:
     permalink: "/media/"
     layout: media
+- scope:
+    path: consumer-blog
+    type: consumer-blog
+  values:
+    permalink: "/:collection/:name"
+    layout: post
+- scope:
+    path: news
+    type: news
+  values:
+    permalink: "/:collection/:name"
+    layout: post
+- scope:
+    path: how-to
+    type: how-to
+  values:
+    permalink: "/:collection/:name"
+    layout: post
 shortname: CPC
 company: Consumer Protection Council
 description: Protecting and enhancing consumer's interest through information, education

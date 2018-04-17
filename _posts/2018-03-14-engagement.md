@@ -1,7 +1,7 @@
 ---
 title: Strategic engagement with Directors, Business, and News Editors, tagged 'Partnership
   for Protection'
-date: 2018-03-13 12:00:00 -11:00
+date: 2018-03-14 00:00:00 +01:00
 categories:
 - news
 layout: post
