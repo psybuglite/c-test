@@ -1,6 +1,6 @@
 ---
 title: Lola Alagbado
-date: 2017-02-03 00:00:00 +01:00
+date: 2017-02-02 12:00:00 -11:00
 name: Lola Alagbado
 location: Magodo, Lagos
 designation: ''

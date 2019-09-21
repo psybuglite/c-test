@@ -1,7 +1,7 @@
 ---
 title: Arbitrary billing, group disconnection of electricity consumers constitute
   gross consumer abuse
-date: 2018-03-02 00:00:00 +01:00
+date: 2018-03-01 12:00:00 -11:00
 categories:
 - consumer-blog
 layout: post
